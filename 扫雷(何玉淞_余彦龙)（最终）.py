@@ -11,7 +11,7 @@ class SL:
         self.visible = []
         self.w_cell_lit = []
         self.finish_reveal = []
-        self.game_over = False
+        self.game_over = False 
         self.win = False
         self.first_click = True
         self.initialize_game()
